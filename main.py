@@ -3,4 +3,4 @@
 def calculate(a, b):
     return a * b
 
-print(calculate(5, 6))
+print(calculate(5, 9))
